@@ -12,7 +12,7 @@
     padding: 10px;
 }
 
-.to-do-app{
+.todo-app{
     width: 100%;
     max-width: 540px;
     background: #fff;
@@ -21,14 +21,14 @@
     border-radius: 10px;
 }
 
-.to-do-app h2{
+.todo-app h2{
     color: #002765;
     display: flex;
     align-items: center;
     margin-bottom: 20px;
 }
 
-.to-do-app h2 img{
+.todo-app h2 img{
     width: 30px;
     margin-left: 10px;
 }
